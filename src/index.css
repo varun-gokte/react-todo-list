@@ -1,0 +1,5 @@
+body {
+    background-image: linear-gradient(rgba(204, 16, 79, 0.5), rgba(15, 199, 61, 0.718));
+    background-attachment: fixed;
+    background-color: aqua;
+}
